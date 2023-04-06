@@ -1,6 +1,6 @@
 <?php
 
-header('Location: //andakgameslab.substack.com');
+header('Location: https://andakgameslab.substack.com');
 exit();
 
 ?>
